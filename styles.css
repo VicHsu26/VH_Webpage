@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(79, 39, 119);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+body {
+    background-color: aquamarine;
+    width: auto;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+h2{
+    font-size: 45px; 
+    text-align:left;
+    text-decoration:underline
+}
