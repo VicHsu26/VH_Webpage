@@ -67,3 +67,8 @@ h2 strong {
   border-width: 20px;
   border-style: groove
 }
+
+.backtofirstpage {
+  font-size: 60px;
+  text-align: center;
+}

@@ -45,6 +45,7 @@ li {
     border-style: groove
 }
 
-.backtofirstpage {
-    font-size: 80px;
+.page {
+    font-size: 60px;
+    text-align: center;
 }
