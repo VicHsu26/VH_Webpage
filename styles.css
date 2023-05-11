@@ -1,9 +1,11 @@
 body {
-  font-family: Arial, sans-serif;
+
   background-color: #f2f2f2;
   color: #000000;
   margin: 0;
   background-color: bisque;
+  font-family: 'Rubik Pixels', cursive;
+  font-family: 'Sedgwick Ave Display', cursive;
 }
 
 
@@ -25,7 +27,7 @@ h1 p {
 
 
 ul {
-  list-style:disc;
+  list-style: disc;
   margin: 0;
 }
 
@@ -37,7 +39,7 @@ ul li {
 
 ul ul {
   margin-left: 20px;
-list-style:georgian;
+  list-style: georgian;
 }
 
 
