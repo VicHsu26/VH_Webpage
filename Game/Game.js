@@ -117,7 +117,9 @@ function endGame(wordGuessed) {
 }
 
 
-newGameBtn.addEventListener('click', initializeGame);
-
+newGameBtn.addEventListener('click', () => {
+  location.reload();
+});
 
 initializeGame();
+
