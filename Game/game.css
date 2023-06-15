@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #hangman-container {
+    margin-top: 20px;
+  }
+  
+  #hangman-img {
+    width: 300px;
+    height: 300px;
+  }
+  
+  #word-container {
+    margin-top: 20px;
+  }
+  
+  #letters-container {
+    margin-top: 20px;
+  }
+  
+  #letters-container button {
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  #new-game-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
