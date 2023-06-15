@@ -17,6 +17,12 @@ h1 {
   margin-bottom: 20px;
 }
 
+h4{
+  color:aquamarine;
+  text-align:center;
+  margin-bottom:10px;
+}
+
 #hangman-container {
   margin-top: 20px;
 }
