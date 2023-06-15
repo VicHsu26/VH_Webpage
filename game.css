@@ -1,7 +1,10 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-  }
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: bisque;
+  font-family: 'Rubik Pixels', cursive;
+font-family: 'Sedgwick Ave Display', cursive;
+}
   
   h1 {
     color: #333;
