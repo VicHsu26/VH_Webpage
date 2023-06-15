@@ -1,13 +1,15 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
+  margin: 30;
   background-color: bisque;
   font-family: 'Rubik Pixels', cursive;
 font-family: 'Sedgwick Ave Display', cursive;
+
 }
   
   h1 {
     color: #333;
+    text-align: center;
   }
   
   #hangman-container {
@@ -17,19 +19,23 @@ font-family: 'Sedgwick Ave Display', cursive;
   #hangman-img {
     width: 300px;
     height: 300px;
+    
   }
   
   #word-container {
     margin-top: 20px;
+    text-align: center;
   }
   
   #letters-container {
     margin-top: 20px;
+    text-align: center;
   }
   
   #letters-container button {
     margin: 5px;
     padding: 10px;
+    text-align: center;
   }
   
   #new-game-btn {
@@ -40,5 +46,6 @@ font-family: 'Sedgwick Ave Display', cursive;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    text-align: center;
   }
   
